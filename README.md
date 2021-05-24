@@ -1,8 +1,8 @@
 # Basic way to implement mod and dlc support in Godot.
 
 The game_scene.pck and menu_scene.pck has their on repositories as Godot projects, check them out.
- - Game: 
- - Menu:
+ - Game: https://github.com/ozanbariscem/godot-mod-support-example-game
+ - Menu: https://github.com/ozanbariscem/godot-mod-support-example-menu
 
 
 # What?
