@@ -11,7 +11,7 @@ The game_scene.pck and menu_scene.pck has their on repositories as Godot project
 # Why?
  - Modding is awesome.
  - You can treat your DLCs as mods.
- - You can change or update a part of game with small updates. Unlike PUBG where we have to download the entire game again just for a 2 line change.
+ - You can change or update a part of the game with small updates. Unlike PUBG where we have to download the entire game again just for a 2 line change.
  - I believe to make an actually modable game you have to make that game by moding it yourself.
 
 # How it works?
