@@ -24,7 +24,7 @@ The game_scene.pck and menu_scene.pck has their on repositories as Godot project
 # Problems
  - You can't use static typing for custom classes in mod/dlc/update files. But you can load these custom classes using preload and load functions of Godot. This also enables posibility of "sub-mods" -mod of another mod-
  - GDScript has acces to operating system so mods can be malicious.
- - Testing a part of the game can become boring because since you can't test in editor, you constantly have to export.
+ - Testing a part of the game can become boring since you can't test it in editor, you constantly have to export.
 
 # Notes
  - This example is created to test in editor.
