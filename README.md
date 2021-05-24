@@ -29,3 +29,4 @@ The game_scene.pck and menu_scene.pck has their on repositories as Godot project
 # Notes
  - This example is created to test in editor.
  - If you export this project as it is, it will include the game and mod folder in the exports .pck file. Which isn't something we want. Correct use is to export the game without game and mod folders. Then create game and mod folders in the export directory. And export every game or mod .pck you have to their respective folders.
+ - If you have a solution to any of these problems please let me know.
