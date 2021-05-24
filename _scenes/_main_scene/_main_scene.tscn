@@ -1,0 +1,15 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://_scenes/_base_scene/_base_scene.tscn" type="PackedScene" id=1]
+[ext_resource path="res://_scenes/_main_scene/mod_loader.gd" type="Script" id=2]
+[ext_resource path="res://_scenes/_main_scene/game_loader.gd" type="Script" id=3]
+[ext_resource path="res://_scenes/_main_scene/main_scene.gd" type="Script" id=4]
+
+[node name="_main_scene" instance=ExtResource( 1 )]
+script = ExtResource( 4 )
+
+[node name="game_loader" type="Node2D" parent="." index="1"]
+script = ExtResource( 3 )
+
+[node name="mod_loader" type="Node2D" parent="." index="2"]
+script = ExtResource( 2 )
